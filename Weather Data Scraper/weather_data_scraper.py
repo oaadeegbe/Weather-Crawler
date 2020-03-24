@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import requests
 from datetime import date
-import os
+import os, re
 import zipcodes as z
 import yagmail as ym
 
